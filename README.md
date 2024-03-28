@@ -7,5 +7,5 @@ Visit
 
 We can check the project on https://sentimentgroup18.pythonanywhere.com/ this website is under development at time user can only submit the response their result not be display on the website.
 
-Install 
+
 
